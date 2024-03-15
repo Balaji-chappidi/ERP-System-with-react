@@ -1,0 +1,22 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    padding: 22px;
+}
+.delete-button{
+    background-color: rgba(206, 67, 67, 0.836);
+    color: white;
+    border-width: 0px;
+    border-radius: 18px;
+    height: 32px;
+    width: 135px;
+    
+}
+.card-con{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+}

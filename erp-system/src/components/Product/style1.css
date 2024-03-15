@@ -1,0 +1,28 @@
+.heading{
+    text-align: center;
+    color: darkmagenta;
+}
+.input{
+    height: 35px;
+    width: 120px;
+    border-color: darkmagenta;
+    border-style: solid;
+    border-radius: 12px;
+    margin: 22px;
+}
+.add-button{
+    background-color: rgba(72, 206, 67, 0.836);
+    color: white;
+    border-width: 0px;
+    border-radius: 18px;
+    height: 32px;
+    width: 135px;
+    
+}
+.form-control{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    padding: 22px;
+}

@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    padding: 22px;
+}
+.h1{
+    padding: 12px;
+    
+}

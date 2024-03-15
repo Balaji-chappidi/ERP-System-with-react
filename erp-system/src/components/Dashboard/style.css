@@ -1,0 +1,21 @@
+.nav-bar{
+    background-color: rgb(73, 202, 216);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.nav-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+}
+.nav-link{
+    list-style:none;
+    text-decoration: none;
+    padding: 12px;
+    color: aliceblue;
+}
